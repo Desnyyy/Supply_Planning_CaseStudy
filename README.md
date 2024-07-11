@@ -31,9 +31,9 @@ Festory II is currently negotiating with the Supplier to order materials accordi
 ![image](https://github.com/Desnyyy/Supply_Planning_CaseStudy/assets/88900307/3554c84c-bd9b-45c2-8d61-b307d3367ea0)
 \
 \
-Currently, the factory side is storing data on three different platforms. Specifically, information about INPUT_DEMAND and INPUT_SUPPLY_SOH is saved on\
-Google Sheet is intended to be conveniently and easily accessible to both demand planning and warehouse departments. Information about INPUT_BOM and INPUT_ITEMMASTER is stored on the specific ERP system in the factory's SQL database to ensure data integrity.\ Particularly for information about INPUT_ONGOING, because the factory must send data to the supplier, the data is currently stored as an offline excel file for each PO.\
-Based on the information provided, the team as Supply Chain Manager should:\
-1. Determine the quantity of raw materials to order according to MOQ to ensure the most optimal operating and production process.\
-2. Determine production plans and transfer goods from the factory to warehouses (if any)\
-3. Determine the amount of finished products or raw materials at risk of expiration (if any)\
+Currently, the factory side is storing data on three different platforms. Specifically, information about INPUT_DEMAND and INPUT_SUPPLY_SOH is saved on Google Sheet is intended to be conveniently and easily accessible to both demand planning and warehouse departments. Information about INPUT_BOM and INPUT_ITEMMASTER is stored on the specific ERP system in the factory's SQL database to ensure data integrity.\ 
+Particularly for information about INPUT_ONGOING, because the factory must send data to the supplier, the data is currently stored as an offline excel file for each PO.\
+Based on the information provided, the team as Supply Chain Manager should:
+1. Determine the quantity of raw materials to order according to MOQ to ensure the most optimal operating and production process.
+2. Determine production plans and transfer goods from the factory to warehouses (if any)
+3. Determine the amount of finished products or raw materials at risk of expiration (if any)
